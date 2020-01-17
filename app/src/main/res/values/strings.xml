@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="about_title">Знаки Зодиака!</string>
+    <string name="title_spring">Весенние знаки.</string>
+    <string name="TextView">
+        <b>Знаки Зодиака</b> - это 30-градусные участки \n
+        эклиптики, а отсчет знаков Зодиака по месяцам  \n
+        начинается от точки весеннего равноденствия по  \n
+        ходу движения Солнца. В каждом знаке Зодиака \n
+        Солнце пребывает около месяца и переходит в \n
+        другой знак в двадцатых числах каждого месяца. \n
+        \n
+        Часто знаки Зодиака путают с зодиакальными созвездиями.\n
+        Однако знаки Зодиака не являются созвездиями — \n
+        это 12 равных частей, на которые разделен пояс \n
+        эклиптики (а зодиакальных созвездий 13, \n
+        тринадцатое — созвездие Змееносца). \n
+        Астрологические знаки Зодиака по месяцам  \n
+        получили свои названия от ближайших к ним созвездий.</string>
+    <string name="todo">TODO</string>
+    <string name="spring">Весна</string>
+    <string name="winter">Зима</string>
+    <string name="summer">Лето</string>
+    <string name="autumn">Осень</string>
+    <string name="title_activity_spring">SpringActivity</string>
+</resources>
